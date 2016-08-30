@@ -29,4 +29,12 @@
 // doAdd(10);
 // doAdd(10, 30);
 
-
+// function openWindow() {
+//     var windowFrame = confirm("是否打开新的网页?");
+//     if (!windowFrame) {
+//     } else {
+//         var newURL = prompt("输入打开的网站:", "http://www.imooc.com");
+//         window.open(newURL, "_blank", "width = 400, height = 500, menubar = no, toolbar = no");
+//
+//     }
+// }
